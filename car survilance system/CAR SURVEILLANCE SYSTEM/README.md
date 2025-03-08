@@ -1,5 +1,5 @@
 # Step-By-Step guide on how to get the project running
-Watch - https://www.youtube.com/watch?v=dTuUm56Euo0
+
 
 - Open DNDS project in your code editor (PyCharm Recommended, VsCode or any other editor will work too as long as you know how to use them)
 
